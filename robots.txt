@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aecoiphai.janhinzmann.de/sitemap.xml
